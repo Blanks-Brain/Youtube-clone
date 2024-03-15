@@ -44,6 +44,9 @@ INSTALLED_APPS = [
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
+    
+    #local app
+    'youtubeApp',
 ]
 SITE_ID=1
 # For allauth
